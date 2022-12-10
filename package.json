@@ -1,0 +1,22 @@
+{
+  "name": "howmuch",
+  "version": "1.0.0",
+  "description": "how much does a computer cost",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimma111/howmuch.git"
+  },
+  "author": "Dima Marinenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimma111/howmuch/issues"
+  },
+  "homepage": "https://github.com/dimma111/howmuch#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
